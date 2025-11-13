@@ -1,0 +1,7 @@
+[package]
+name = "hyperion"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+plotly = "0.8"   # 绘图库，用于生成交互式 HTML 图
